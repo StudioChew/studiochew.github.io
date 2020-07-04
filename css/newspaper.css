@@ -1,0 +1,33 @@
+body {
+  background-color: #F0F3FF; /* Light Bluish Grey */
+}
+
+h1 {
+  font-size: 55px;
+}
+
+p {
+  color: black;
+}
+
+h2 {
+  color: black;
+}
+
+a {
+  color: black;
+  background-color: white; /* Light Bluish Grey */
+  border: none;
+  color: black;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.2s;
+}
+
+a:hover {
+  background-color: lightgrey; /* White */
+  color: black;
+}
