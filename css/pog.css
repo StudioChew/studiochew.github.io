@@ -20,6 +20,14 @@ p {
 }
 
 a {
+  color: white;
+  display: inline-block;
+  font-size: 16px;
+  font-family: verdana;
+  transition-duration: 0.2s;
+}
+
+.buttonlook {
   background-color: #8000FF; /* Purple */
   border: none;
   color: white;
@@ -33,8 +41,12 @@ a {
   border-radius: 8px;
 }
 
-a:hover {
+.buttonlook:hover {
   background-color: #EAD6FF; /* Light Purple */
+  color: #8000FF;
+}
+
+a:hover {
   color: #8000FF;
 }
 
