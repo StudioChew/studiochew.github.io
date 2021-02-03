@@ -1,0 +1,13 @@
+     _         _ _         _             
+ ___| |_ _ _ _| |_|___ ___| |_ ___ _ _ _ 
+|_ -|  _| | | . | | . |  _|   | -_| | | |
+|___|_| |___|___|_|___|___|_|_|___|_____|
+ last update: 2021-02-03
+
+new site | 2021-02-03
+
+got bored of html and stuff like that so i chose to do index.txt :)
+plain text is interesting to use. hope it doesnt look terribly awful
+for best results, view this webpage with a monospaced font
+thats it for today, see you next week (yes, i am going to try to post
+atleast weekly.)

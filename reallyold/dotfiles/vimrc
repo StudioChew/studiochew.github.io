@@ -1,0 +1,53 @@
+set nu
+syntax on
+
+call plug#begin('~/.vim/plugged')
+Plug 'neoclide/coc.nvim'
+Plug 'vim-airline/vim-airline'
+Plug 'andymass/vim-matchup'
+Plug 'morhetz/gruvbox'
+Plug 'preservim/nerdtree'
+Plug 'voldikss/vim-floaterm'
+Plug 'rstacruz/vim-closer'
+Plug 'Stoozy/vimcord'
+Plug 'vim-airline/vim-airline-themes'
+"Plug 'skammer/vim-css-color'
+"Plug 'sukima/xmledit'
+call plug#end()
+
+set tabstop=4
+set shiftwidth=4
+set expandtab
+
+"""ug 'ycm-core/YouCompleteMe'
+
+set t_Co=512
+
+"set termguicolors
+"let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
+"let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
+
+set cursorline
+"set cursorcolumn
+hi CursorLine   cterm=NONE ctermbg=235 ctermfg=NONE
+"hi CursorColumn cterm=NONE ctermbg=236 ctermfg=NONE
+"colo gruvbox
+"set background=dark
+
+"let g:airline_powerline_fonts = 1
+"let g:airline#extensions#tabline#enabled = 1
+
+" for debian and other systems that dont have uptodate vim:
+let g:coc_disable_startup_warning = 1
+
+hi LineNr ctermfg=250 ctermbg=234 cterm=NONE
+hi CursorLineNr ctermfg=255 ctermbg=234 cterm=NONE
+let g:airline#extensions#tabline#left_sep = '▒' 
+let g:airline_left_sep = '▒'
+let g:airline_right_sep = '▒'
+set noshowmode
+set t_md=
+
+hi Comment ctermfg=241
+
+map <C-a> <esc>:NERDTreeToggle<enter>
