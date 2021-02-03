@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.parallax1 {
+  /* The image used */
+  background-image: url("files/pog/pogparallax1.png");
+
+  /* Set a specific height */
+  height: 600px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax2 {
+  /* The image used */
+  background-image: url("files/pog/pogparallax2.png");
+
+  /* Set a specific height */
+  height: 280px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.centered {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+</style>
+<link rel="stylesheet" type="text/css" href="css/pog.css">
+<link rel="stylesheet" type="text/css" href="css/menubar.css">
+</head>
+<body>
+<center>
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="irc.html">IRC</a></li>
+  <li><a class="active" href="pogtas.html">pog!</a></li>
+  <li><a href="https://shouttothevoid.createaforum.com/">Forum</a></li>
+  <li><a href="scratch.html">Scratch</a></li>
+</ul>
+<h1 class="centered" style="font-size: 100px">pog!</h1>
+<a href="poggame.html"><button class="centered" type="button" style="top: 70%"><b>Play Online!</b></button></a>
+<div class="parallax1"></div>
+<h2>pog!</h2>
+<p>pog! is a game where you try to catch all spheres you can.</p>
+<p>it is opensource and it has been licensed</p>
+<p>under GNU GPL v3. here, you can download</p>
+<p>the .sb3 or play it online.</p>
+<a href="poggame.html"><button type="button" style="padding: 15px 127px"><b>Play Online!</b></button></a>
+<br>
+<a href="files/pog/pog!.sb3" download="pog!.sb3"><button type="button">Download .sb3</button></a>
+<a href="https://github.com/studiochew/pog"><button type="button">View Github</button></a>
+<div class="parallax2"></div>
+</center>
+</body>
+</html>

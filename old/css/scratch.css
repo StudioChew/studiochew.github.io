@@ -1,0 +1,57 @@
+body {
+  background-color: #E8EDF1; /* Light Grey */
+}
+
+h1 {
+  font-family: verdana;
+  color: orange;
+  text-align: center;
+}
+
+h2 {
+  font-family: verdana;
+  color: orange;
+}
+
+p {
+  color: orange;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+a {
+  background-color: #F7A223; /* Scratch Orange */
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: verdana;
+  transition-duration: 0.2s;
+  border-radius: 8px;
+}
+
+a:hover {
+  background-color: #F4D09C; /* Light Orange */
+  color: #F7A223;
+}
+
+button {
+  background-color: #F7A223; /* Scratch Orange */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.2s;
+  border-radius: 8px;
+}
+
+button:hover {
+  background-color: #F4D09C; /* Light Orange */
+  color: #F7A223;
+}

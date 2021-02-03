@@ -1,0 +1,69 @@
+body {
+  background-color: #422C6E; /* Dark Purple */
+}
+
+h1 {
+  font-family: verdana;
+  color: #F3E6FF;
+  text-align: center;
+}
+
+h2 {
+  font-family: verdana;
+  color: #F3E6FF;
+}
+
+p {
+  color: #F3E6FF;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+a {
+  color: white;
+  display: inline-block;
+  font-size: 16px;
+  font-family: verdana;
+  transition-duration: 0.2s;
+}
+
+.buttonlook {
+  background-color: #8000FF; /* Purple */
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: verdana;
+  transition-duration: 0.2s;
+  border-radius: 8px;
+}
+
+.buttonlook:hover {
+  background-color: #EAD6FF; /* Light Purple */
+  color: #8000FF;
+}
+
+a:hover {
+  color: #8000FF;
+}
+
+button {
+  background-color: #8000FF; /* Purple */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.2s;
+  border-radius: 8px;
+}
+
+button:hover {
+  background-color: #EAD6FF; /* Light Purple */
+  color: #8000FF;
+}

@@ -1,0 +1,38 @@
+body {
+  background-color: #F0F3FF; /* Light Bluish Grey */
+}
+
+h1 {
+  font-family: courier;
+  font-size: 20px;
+}
+
+a {
+  font-family: courier;
+  color: black;
+  text-align: center;
+}
+
+h2 {
+  font-family: courier;
+  color: black;
+}
+
+p {
+  color: black;
+  background-color: E3E9FA; /* Light Bluish Grey */
+  border: none;
+  color: black;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: courier;
+  transition-duration: 0.2s;
+}
+
+a:hover {
+  background-color: #FFFFFE; /* White */
+  color: black;
+}
