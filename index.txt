@@ -2,7 +2,12 @@
  ___| |_ _ _ _| |_|___ ___| |_ ___ _ _ _ 
 |_ -|  _| | | . | | . |  _|   | -_| | | |
 |___|_| |___|___|_|___|___|_|_|___|_____|
- last update: 2021-02-03
+ last update: 2021-02-08
+
+birthday | 2021-02-08
+it is my birthday
+anyways heres a reminder for future me:
+the dates are in yyyy-mm-dd format so dont screw it up, future me!
 
 new site | 2021-02-03
 
