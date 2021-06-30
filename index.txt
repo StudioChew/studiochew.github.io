@@ -2,8 +2,27 @@
  ___| |_ _ _ _| |_|___ ___| |_ ___ _ _ _
 |_ -|  _| | | . | | . |  _|   | -_| | | |
 |___|_| |___|___|_|___|___|_|_|___|_____|
- last update: 2021-03-06
-check out /thoughts.txt!
+ last update: 30-06-2021
+=[Blog]===============================================================
+
+updates and text terminals | 30-06-2021
+i realized that the yyyy-mm-dd format is stupid, so i've switched
+to using dd-mm-yyyy. posts before this haven't been updated, so
+remember that those are in a different format. i might start using
+html again because plain text isn't that fun, but who knows
+
+here are some other little changes i've made:
+i have added some buttons at the bottom of the page, and i have
+removed thoughts.txt.
+
+anyways, i've started using tty more than x11. i'm currently writing
+this on my raspberry pi, and because x11 took way too much space, i've
+removed it :^) i've also started customizing tmux a lot, and i will
+write a blog post about tmux. i will be talking about the custom binds
+i have made, and tpm, a great plugin manager
+
+anyways, have a nice day, and thanks for actually reading this blog
+i'm surprised that you're here, but thanks a lot :D
 
 birthday | 2021-02-08
 it is my birthday
@@ -17,3 +36,100 @@ plain text is interesting to use. hope it doesnt look terribly awful
 for best results, view this webpage with a monospaced font
 thats it for today, see you next week (yes, i am going to try to post
 atleast weekly.)
+
+======================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+you can never have enough buttons.
+wait, you do have a monospaced font, right?
+ ___________________________________   _______________
+|                                   | |     \         |
+|  ,= ,-_-. =.  powered by:         | | TXT  | format |
+| ((_/)o o(\_))  _____ _____ _____  | |_____/_________|
+|  `-'(. .)`-'  |   __|   | |  |  | |  _______________
+|      \_/      |  |  |     |  |  | | |MADE WITH\\  //|
+|               |_____|_|___|_____| | | (neo)vim \\// |
+|___________________________________| |:wq________\/im|
+ _____________________________   _____________   _____
+|  _____ ___ ____ _      _    | |~_$_|_No_X11_| |tm|ux|
+| |  ___|_ _/ ___| | ___| |_  |  _____________  |  |--|
+| | |_   | | |  _| |/ _ \ __| | |HTML|_Nope!__| |__|__|
+| |  _|  | | |_| | |  __/ |_  |  _________________
+| |_|   |___\____|_|\___|\__| | | BEST VIEWED ON: |
+| '------www.figlet.org-----' | |   e l i n k s   |
+|_____________________________| |_in_command_line_|
+ ______________________________   _____________
+|   ___________        .--.    | |A|_Arch,_BTW_|
+|  | --------- |      |o_o |   |  ____________________
+|  ||~$ _     ||      |:_/ |   | |         ###        |
+|  ||_________||     //   \ \  | | ###    ## ##   ##  |
+|  |_____*_____|    (|     | ) | |       ##   ##   ## |
+|  /-.-.-.-.-.-\   /'\_   _/`\ | |                 ## |
+| /-.-/_____\-.-\  \___(=)___/ | | ###             ## |
+| '-------------' I use Linux! | |                ##  |
+|______________________________| |____________________|
